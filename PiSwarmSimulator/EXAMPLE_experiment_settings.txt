@@ -1,0 +1,2 @@
+startBatteryLevel-uniform-[100, 60]-1
+[{'startBatteryLevel': 74.74613236717741}, {'startBatteryLevel': 91.87821465439971}, {'startBatteryLevel': 74.1147351737887}, {'startBatteryLevel': 92.24014772745664}, {'startBatteryLevel': 65.81500784089683}, {'startBatteryLevel': 86.72992228649046}, {'startBatteryLevel': 89.86674435922333}, {'startBatteryLevel': 77.15767836149499}, {'startBatteryLevel': 84.9185760720641}, {'startBatteryLevel': 68.63977366941562}]
